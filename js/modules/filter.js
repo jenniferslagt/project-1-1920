@@ -5,7 +5,6 @@ export function filterData(data, id) {
     const detailSection = document.getElementById("detail-section");
     console.log('helloooooo', data)
     const result = data.filter(object => {
-        console.log(object);
         return object.id == id
     })
     return result

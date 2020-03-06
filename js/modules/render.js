@@ -51,14 +51,16 @@ export function renderDetails(data) {
 
   data.map((item => {
     const AddReadBook = `
-    <h2>${item.titles[0]}</h2>
-    <p>${item.summaries ? item.summaries[0] : 'Geen samenvatting'}</p>
-    <ul>
-  <li>Genre: ${item.genres}</li>
-  <li>Auteur: ${item.authors[0]}</li>
-  <li>Jaar: ${item.year}</li>
-  <li>ISBN: ${item.isbn[0]}</li>
-  </ul>
+              <h2>${item.titles[0]}</h2>
+                              <p>${item.summaries ? item.summaries[0] : 'Geen samenvatting'}</p>
+                              <ul>
+                            <li>Genre: ${item.genres}</li>
+                            <li>Auteur: ${item.authors[0]}</li>
+                            <li>Jaar: ${item.year}</li>
+                            <li>ISBN: ${item.isbn[0]}</li>
+                            <a class='bekijkbutton' href="#main"> x</a>
+                <a class='save-button'>❤</a>
+                            </ul>
             `;
 
 

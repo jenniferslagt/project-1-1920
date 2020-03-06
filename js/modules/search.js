@@ -1,17 +1,19 @@
 import jsonData from '../../data/data.js'
 
-const jsonDataResults = jsonData.results;
+const jsonDataResults = jsonData;
 const filterOnSearch = getInputValueAndSearch(jsonDataResults);
 
 // Make function which gets the input and filters on the data
 export function getInputValueAndSearch(theData) {
     document.querySelector("button").addEventListener("click", function () {
-        const inputForm = document.querySelector('input').value;
+        const inputForm = document.getElementById('search-title').value;
+        console.log('dit is de inputt', inputForm)
         if (inputForm) {
             const result = theData.filter(object => {
                 return object.titles[0] === inputForm
             })
-            // console.log(result);
+
+            console.log('dit is gefilteerd ahha ', result);
             const filteredSection = document.getElementById("filtered-section");
             document.getElementById('main-section').classList.remove('active');
 

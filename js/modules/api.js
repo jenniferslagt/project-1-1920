@@ -45,9 +45,8 @@ function getData(id) {
     //     .catch(err => {
     //         console.log(err);
     //     });
-    // console.log("dataaaaaaaaa", jsonData)
+
     const data = jsonData.results
-    // console.log('hiiiiiiii', id)
     renderDetails(filterData(data, id));
 }
 
