@@ -3,7 +3,6 @@
 </head>
 
 <body>
-
     <!-- loading state -->
     <figure class="stack">
         <div class="card one">
@@ -17,23 +16,24 @@
         </div>
     </figure>
 
-    <h1>Oba</h1>
+    <!-- Start section -->
+    <section href='' id='start-section' data-route="start-page">
+        <label><b>ONDERWERP:</b></label>
+        <input id='topic' type="text" placeholder="Bijvoorbeeld: 'Honden' ">
+        <a id='start' href="#main">
+            <b> START </b>
+        </a>
+    </section>
 
-    <!-- Some navigation -->
-    <a href="">
-        <svg id="homebutton" data-name="Laag 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 147 149.14">
-            <defs>
-                <style></style>
-            </defs>
-            <title>homebutton</title>
-            <path class="cls-1"
-                d="M147.19,78.5,76.5,137.33q0,44.58,0,89.17h52.64L129,185a11.21,11.21,0,0,1,9-8h24a13.56,13.56,0,0,1,9,10l.55,39.5H222.5q0-44.82,0-89.63Z"
-                transform="translate(-76 -77.86)" />
-        </svg>
+
+
+    <a href=' '>
+        <h1>Oba</h1>
     </a>
 
+    <!-- Some navigation -->
     <form>
-        <input type="text" placeholder="Zoeken op titel">
+        <input id='search-title' type="text" placeholder="Zoeken op titel">
         <button type="button">
             <svg id="searchbutton" data-name="Laag 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 110.4 130.3">
                 <defs>
@@ -47,14 +47,26 @@
         </button>
     </form>
 
-    <div>
-        <span>Score:</span>
-        <span></span>
-    </div>
+    <span score><b>Score: </b>0 / 3 <br>opgeslagen boeken.</span>
     <div class='content'>
 
+
+
         <!-- The main section  -->
-        <section id='main-section' data-route="main-page"></section>
+        <section id='main-section' data-route="main-page">
+            <!-- loading state -->
+            <figure class="stack">
+                <div class="card one">
+                    <span><b>1</b></span>
+                </div>
+                <div class="card two">
+                    <span><b>3</b></span>
+                </div>
+                <div class="card three">
+                    <span><b>2</b></span>
+                </div>
+            </figure>
+        </section>
 
         <!-- The filtered section -->
         <section id='filtered-section' data-route="filtered-page"></section>

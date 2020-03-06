@@ -1,9 +1,7 @@
 export default {
-
-
   "meta": {
-    "time-taken": "213",
-    "result-count": "820",
+    "time-taken": "244",
+    "result-count": "6848",
     "page-count": "20",
     "current-page": "1",
     "current-sort-method": "relevance",
@@ -15,128 +13,756 @@ export default {
     ]
   },
   "results": [{
-      "id": "|oba-catalogus|1178865",
+      "id": "|oba-catalogus|1036943",
       "frabl": {
-        "key1": "bier",
-        "key2": "rick kempen",
+        "key1": "honden",
+        "key2": "anita ganeri",
         "cnt": "1",
-        "value": "1695718DAFF360A0"
+        "value": "6773CC54CFF360A0"
       },
-      "detailLink": "http://zoeken.oba.nl/detail/Rick-Kempen/Bier/Boek/?itemid=%7coba-catalogus%7c1178865",
+      "detailLink": "http://zoeken.oba.nl/detail/Anita-Ganeri/Honden/Boek/?itemid=%7coba-catalogus%7c1036943",
       "titles": [
-        "Bier",
-        "Bier / Rick Kempen"
+        "Honden",
+        "Honden / Anita Ganeri"
       ],
       "isbn": [
-        "=9789026339417"
+        "9789055666508"
       ],
       "coverimages": [
-        "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=413177289&isbn=9789026339417&lid=&aut=&ti=&size=70",
-        "https://v111.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/413177289&token=c1322402"
+        "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=340215291&isbn=9789055666508&lid=&aut=&ti=&size=70",
+        "https://v111.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/340215291&token=c1322402"
       ],
       "formats": [{
         "text": "Boek",
-        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20200302.144703"
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20200304.234430"
       }],
       "authors": [
-        "Rick Kempen"
+        "Anita Ganeri",
+        "Karin Beneken Kolmer"
       ],
       "authorsDetailed": [{
-        "full": "Rick Kempen",
-        "firstname": "Rick",
-        "lastname": "Kempen",
-        "localized-type": "Auteur",
-        "creatortype": "person"
-      }],
-      "year": "2017",
+          "full": "Anita Ganeri",
+          "firstname": "Anita",
+          "lastname": "Ganeri",
+          "creatortype": "person"
+        },
+        {
+          "full": "Karin Beneken Kolmer",
+          "lastname": "Karin Beneken Kolmer",
+          "creatortype": "organization"
+        }
+      ],
+      "year": "2012",
       "publisher": [
-        "Ambo Anthos, Amsterdam, [2017]"
+        "Ars Scribendi Uitgeverij, Etten-Leur, cop. 2012"
       ],
       "subject-topical": [
-        "Bier"
+        "Honden",
+        "Verzorging"
       ],
       "languages": [
-        "Nederlands"
+        "Nederlands",
+        "Engels"
       ],
       "summaries": [
-        "Informatief boekje over de geschiedenis van bier, zijn vele soorten en allerlei wetenswaardigheden."
+        "Leer van alles over honden. Hoe zien ze eruit? Welke hond past bij jou? Hoe houd je je hond gezond? Met veel grote kleurenfoto's. Vanaf ca. 6 t/m 8 jaar."
       ],
       "description": [
-        "299 pagina's",
-        "299 pagina's: illustraties ; 18 cm"
+        "32 p",
+        "32 p: ill ; 23 cm"
       ],
-      "note": "Met literatuuropgave, register",
+      "note": "Vert. van: Dogs. - Capstone Global Library, cop. 2009",
+      "series": [{
+        "text": "Mijn huisdier"
+      }],
       "undup": {
         "alsoAvailableAsCount": "0",
         "items": [{
-          "key1": "bier",
-          "key2": "rick kempen",
+          "key1": "honden",
+          "key2": "anita ganeri",
           "cnt": "1",
-          "value": "1695718DAFF360A0"
+          "value": "6773CC54CFF360A0"
         }]
       },
       "siso": [
-        "678.71"
+        "J634.13"
       ]
     },
     {
-      "id": "|oba-catalogus|882381",
+      "id": "|oba-catalogus|1186396",
       "frabl": {
-        "key1": "bier",
-        "key2": "michael jackson lorenzo dabove pieter keyzer jantine crezee",
+        "key1": "honden",
+        "key2": "christina mia gardeski",
         "cnt": "1",
-        "value": "3C3E9B072F360A0"
+        "value": "3C45E2903F360A0"
       },
-      "detailLink": "http://zoeken.oba.nl/detail/Michael-Jackson/Bier/Boek/?itemid=%7coba-catalogus%7c882381",
+      "detailLink": "http://zoeken.oba.nl/detail/Christina-Mia-Gardeski/Honden/Boek/?itemid=%7coba-catalogus%7c1186396",
       "titles": [
-        "Bier",
-        "Bier / onder red. van Michael Jackson"
+        "Honden",
+        "Honden / Christina Mia Gardeski"
       ],
       "isbn": [
-        "9789047506515"
+        "=9789463412162"
       ],
       "coverimages": [
-        "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=314438831&isbn=9789047506515&lid=&aut=&ti=&size=70",
-        "https://v111.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/314438831&token=c1322402"
+        "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=413996387&isbn=9789463412162&lid=&aut=&ti=&size=70",
+        "https://v111.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/413996387&token=c1322402"
       ],
       "formats": [{
         "text": "Boek",
-        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20200302.144703"
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20200304.234430"
       }],
       "authors": [
-        "Michael Jackson",
-        "Lorenzo Dabove",
-        "Pieter Keyzer",
-        "Jantine Crezée"
+        "Christina Mia Gardeski",
+        "Janne van der Leer",
+        "Monica Terpstra"
       ],
       "authorsDetailed": [{
-          "full": "Michael Jackson",
-          "lastname": "Michael Jackson",
-          "creatortype": "organization",
-          "wikidata": "xxx"
+          "full": "Christina Mia Gardeski",
+          "firstname": "Christina Mia",
+          "lastname": "Gardeski",
+          "localized-type": "Auteur",
+          "creatortype": "person"
         },
         {
-          "full": "Lorenzo Dabove",
-          "lastname": "Lorenzo Dabove",
+          "full": "Janne van der Leer",
+          "lastname": "Janne van der Leer",
+          "localized-type": "Vertaler",
           "creatortype": "organization"
         },
         {
-          "full": "Pieter Keyzer",
-          "lastname": "Pieter Keyzer",
+          "full": "Monica Terpstra",
+          "lastname": "Monica Terpstra",
+          "localized-type": "Redacteur",
+          "creatortype": "organization"
+        }
+      ],
+      "year": "2018",
+      "publisher": [
+        "Ars Scribendi Uitgeverij, Etten-Leur, [2018]"
+      ],
+      "subject-topical": [
+        "Honden",
+        "Verzorging"
+      ],
+      "languages": [
+        "Nederlands",
+        "Engels"
+      ],
+      "summaries": [
+        "Waarom snuffelt een hond overal aan? En hoe zorg je goed voor je hond? Lees van alles over honden. Met vertelwoorden om de woordenschat te vergroten en werkbladen, filmpjes enz. online. Met grote kleurenfoto's. Vanaf ca. 4 t/m 6 jaar."
+      ],
+      "description": [
+        "24 pagina's",
+        "24 pagina's: gekleurde illustraties ; 24 × 29 cm"
+      ],
+      "note": "Vertaling van: Dogs. - Capstone Global Library Ltd., (c)2017. - (Pet questions and answers)",
+      "series": [{
+          "text": "Dier in huis!"
+        },
+        {
+          "text": "Vertel Maar"
+        }
+      ],
+      "undup": {
+        "alsoAvailableAsCount": "0",
+        "items": [{
+          "key1": "honden",
+          "key2": "christina mia gardeski",
+          "cnt": "1",
+          "value": "3C45E2903F360A0"
+        }]
+      },
+      "siso": [
+        "J634.13"
+      ]
+    },
+    {
+      "id": "|oba-catalogus|1002157",
+      "frabl": {
+        "key1": "honden",
+        "key2": "steven otfinoski",
+        "cnt": "1",
+        "value": "3BC923BAB5F360A0"
+      },
+      "detailLink": "http://zoeken.oba.nl/detail/Steven-Otfinoski/Honden/Boek/?itemid=%7coba-catalogus%7c1002157",
+      "titles": [
+        "Honden",
+        "Honden / Steven Otfinoski"
+      ],
+      "isbn": [
+        "9789055664559"
+      ],
+      "coverimages": [
+        "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=329364804&isbn=9789055664559&lid=&aut=&ti=&size=70",
+        "https://v111.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/329364804&token=c1322402"
+      ],
+      "formats": [{
+        "text": "Boek",
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20200304.234430"
+      }],
+      "authors": [
+        "Steven Otfinoski",
+        "Karin Beneker Kolmer"
+      ],
+      "authorsDetailed": [{
+          "full": "Steven Otfinoski",
+          "firstname": "Steven",
+          "lastname": "Otfinoski",
+          "creatortype": "person"
+        },
+        {
+          "full": "Karin Beneker Kolmer",
+          "lastname": "Karin Beneker Kolmer",
+          "creatortype": "organization"
+        }
+      ],
+      "year": "2011",
+      "publisher": [
+        "Ars Scribendi, Etten-Leur, cop. 2011"
+      ],
+      "subject-topical": [
+        "Honden"
+      ],
+      "languages": [
+        "Nederlands",
+        "Engels"
+      ],
+      "summaries": [
+        "Kenmerken, rassen, levenscyclus, relatie met de mens en het gedrag van de hond komen aan de orde. Met, ook grote, kleurenfoto's. Vanaf ca. 11 jaar."
+      ],
+      "description": [
+        "48 p",
+        "48 p: ill ; 24×24 cm"
+      ],
+      "note": "Vert. van: Dogs. - New York : Marshall Cavendish Corporation, cop. 2010",
+      "series": [{
+        "text": "Dierenfamilies"
+      }],
+      "undup": {
+        "alsoAvailableAsCount": "0",
+        "items": [{
+          "key1": "honden",
+          "key2": "steven otfinoski",
+          "cnt": "1",
+          "value": "3BC923BAB5F360A0"
+        }]
+      },
+      "siso": [
+        "J634.1"
+      ]
+    },
+    {
+      "id": "|oba-catalogus|1173629",
+      "frabl": {
+        "key1": "honden",
+        "key2": "kathryn clay",
+        "cnt": "1",
+        "value": "3EE48E3DA6F360A0"
+      },
+      "detailLink": "http://zoeken.oba.nl/detail/Kathryn-Clay/Honden/Boek/?itemid=%7coba-catalogus%7c1173629",
+      "titles": [
+        "Honden",
+        "Honden / Kathryn Clay"
+      ],
+      "isbn": [
+        "=9789461755964"
+      ],
+      "coverimages": [
+        "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=40833536X&isbn=9789461755964&lid=&aut=&ti=&size=70",
+        "https://v111.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/40833536X&token=c1322402"
+      ],
+      "formats": [{
+        "text": "Boek",
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20200304.234430"
+      }],
+      "authors": [
+        "Kathryn Clay",
+        "Kirsten Verhagen",
+        "Pam Thierry"
+      ],
+      "authorsDetailed": [{
+          "full": "Kathryn Clay",
+          "firstname": "Kathryn",
+          "lastname": "Clay",
+          "localized-type": "Auteur",
+          "creatortype": "person"
+        },
+        {
+          "full": "Kirsten Verhagen",
+          "lastname": "Kirsten Verhagen",
+          "localized-type": "Vertaler",
           "creatortype": "organization"
         },
         {
-          "full": "Jantine Crezée",
-          "lastname": "Jantine Crezée",
+          "full": "Pam Thierry",
+          "lastname": "Pam Thierry",
+          "localized-type": "Redacteur",
+          "creatortype": "organization"
+        }
+      ],
+      "year": "2017",
+      "publisher": [
+        "Corona, Ars Scribendi Uitgeverij, Etten-Leur, [2017]"
+      ],
+      "subject-topical": [
+        "Honden",
+        "Boerderijen"
+      ],
+      "languages": [
+        "Nederlands",
+        "Engels"
+      ],
+      "summaries": [
+        "Honden sturen koeien een bepaalde kant op door te blaffen. Wat doen ze nog meer op de boerderij? Met grote kleurenfoto's, vertelwoorden (voor o.a. vergroten woordenschat) en een website met o.a. een luisterversie. Vanaf ca. 4 t/m 7 jaar."
+      ],
+      "description": [
+        "24 pagina's",
+        "24 pagina's: gekleurde illustraties ; 24 × 29 cm"
+      ],
+      "note": "Vertaling van: Farm dogs. - Capstone Press, (c)2013. - (Farm animals)",
+      "series": [{
+          "text": "Leven op de boerderij"
+        },
+        {
+          "text": "Vertel maar"
+        }
+      ],
+      "undup": {
+        "alsoAvailableAsCount": "0",
+        "items": [{
+          "key1": "honden",
+          "key2": "kathryn clay",
+          "cnt": "1",
+          "value": "3EE48E3DA6F360A0"
+        }]
+      },
+      "siso": [
+        "J634.1"
+      ]
+    },
+    {
+      "id": "|oba-catalogus|1126170",
+      "frabl": {
+        "key1": "honden",
+        "key2": "megan cooley peterson",
+        "cnt": "1",
+        "value": "731DA0261BF360A0"
+      },
+      "detailLink": "http://zoeken.oba.nl/detail/Megan-Cooley-Peterson/Honden/Boek/?itemid=%7coba-catalogus%7c1126170",
+      "titles": [
+        "Honden",
+        "Honden / Megan Cooley Peterson"
+      ],
+      "isbn": [
+        "=9789461752239"
+      ],
+      "coverimages": [
+        "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=380481960&isbn=9789461752239&lid=&aut=&ti=&size=70",
+        "https://v111.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/380481960&token=c1322402"
+      ],
+      "formats": [{
+        "text": "Boek",
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20200304.234430"
+      }],
+      "authors": [
+        "Megan Cooley Peterson",
+        "Vrouwke Klapwijk",
+        "Renate Vergeer"
+      ],
+      "authorsDetailed": [{
+          "full": "Megan Cooley Peterson",
+          "firstname": "Megan Cooley",
+          "lastname": "Peterson",
+          "localized-type": "Auteur",
+          "creatortype": "person"
+        },
+        {
+          "full": "Vrouwke Klapwijk",
+          "lastname": "Vrouwke Klapwijk",
+          "localized-type": "Vertaler",
+          "creatortype": "organization"
+        },
+        {
+          "full": "Renate Vergeer",
+          "lastname": "Renate Vergeer",
+          "localized-type": "Redacteur",
+          "creatortype": "organization"
+        }
+      ],
+      "year": "2014",
+      "publisher": [
+        "Corona, Ars Scribendi Uitgeverij, Etten-Leur, [2014]"
+      ],
+      "subject-topical": [
+        "Honden"
+      ],
+      "languages": [
+        "Nederlands",
+        "Engels"
+      ],
+      "summaries": [
+        "Bekijk en lees welke soorten honden er allemaal zijn. Met weetjes over hun gedrag, zintuigen en eten. Bevat veel kleurenfoto's. Vanaf ca. 7 jaar."
+      ],
+      "description": [
+        "32 pagina's",
+        "32 pagina's: illustraties ; 27 cm"
+      ],
+      "note": "Vertaling van: Show me dogs. - Capstone Press ltd., (c)2013. - (My first picture encyclopedia)",
+      "series": [{
+        "text": "Mijn eerste foto-encyclopedie over..."
+      }],
+      "undup": {
+        "alsoAvailableAsCount": "0",
+        "items": [{
+          "key1": "honden",
+          "key2": "megan cooley peterson",
+          "cnt": "1",
+          "value": "731DA0261BF360A0"
+        }]
+      },
+      "siso": [
+        "J634.1"
+      ]
+    },
+    {
+      "id": "|oba-catalogus|882494",
+      "frabl": {
+        "key1": "honden",
+        "key2": "minke van dam",
+        "cnt": "1",
+        "value": "78B999D98DF360A0"
+      },
+      "detailLink": "http://zoeken.oba.nl/detail/Minke-van-Dam/Honden/Boek/?itemid=%7coba-catalogus%7c882494",
+      "titles": [
+        "Honden",
+        "Honden / geschreven door: Minke van Dam"
+      ],
+      "isbn": [
+        "9789001763220"
+      ],
+      "coverimages": [
+        "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=315107375&isbn=9789001763220&lid=&aut=&ti=&size=70",
+        "https://v111.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/315107375&token=c1322402"
+      ],
+      "formats": [{
+        "text": "Boek",
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20200304.234430"
+      }],
+      "authors": [
+        "Minke van Dam",
+        "Frank Broekhuizen"
+      ],
+      "authorsDetailed": [{
+          "full": "Minke van Dam",
+          "firstname": "Minke",
+          "lastname": "Dam",
+          "creatortype": "person"
+        },
+        {
+          "full": "Frank Broekhuizen",
+          "lastname": "Frank Broekhuizen",
           "creatortype": "organization"
         }
       ],
       "year": "2008",
       "publisher": [
-        "Focus/Unieboek, Houten, 2008"
+        "Noordhoff Uitgevers, Groningen [etc.], 2008"
       ],
       "subject-topical": [
-        "Bier",
+        "Honden"
+      ],
+      "languages": [
+        "Nederlands"
+      ],
+      "description": [
+        "16 p",
+        "16 p: ill ; 23 cm"
+      ],
+      "series": [{
+        "text": "Mini informatie"
+      }],
+      "undup": {
+        "alsoAvailableAsCount": "0",
+        "items": [{
+          "key1": "honden",
+          "key2": "minke van dam",
+          "cnt": "1",
+          "value": "78B999D98DF360A0"
+        }]
+      },
+      "siso": [
+        "J634.1"
+      ]
+    },
+    {
+      "id": "|oba-catalogus|655895",
+      "frabl": {
+        "key1": "honden",
+        "key2": "sabine dumontier",
+        "cnt": "1",
+        "value": "2F6C009151F360A0"
+      },
+      "detailLink": "http://zoeken.oba.nl/detail/Sabine-Dumontier/Honden/Boek/?itemid=%7coba-catalogus%7c655895",
+      "titles": [
+        "Honden",
+        "Honden / Sabine Dumontier"
+      ],
+      "isbn": [
+        "9789076830834"
+      ],
+      "coverimages": [
+        "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=300925875&isbn=9789076830834&lid=&aut=&ti=&size=70",
+        "https://v111.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/300925875&token=c1322402"
+      ],
+      "formats": [{
+        "text": "Boek",
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20200304.234430"
+      }],
+      "authors": [
+        "Sabine Dumontier",
+        "Karel Verleyen"
+      ],
+      "authorsDetailed": [{
+          "full": "Sabine Dumontier",
+          "firstname": "Sabine",
+          "lastname": "Dumontier",
+          "creatortype": "person"
+        },
+        {
+          "full": "Karel Verleyen",
+          "lastname": "Karel Verleyen",
+          "creatortype": "organization"
+        }
+      ],
+      "year": "2007",
+      "publisher": [
+        "Leidschendam",
+        "Biblion, Leuven",
+        "Davidsfonds/Infodok, cop. 2007"
+      ],
+      "subject-topical": [
+        "Honden",
+        "Fotoboeken"
+      ],
+      "languages": [
+        "Nederlands",
+        "Frans"
+      ],
+      "summaries": [
+        "Fotoboek met leuke weetjes over honden, o.a. de geboorte, eigenschappen, soorten, instincten en geschiedenis.. - Kijkboek met leuke weetjes van honden, o.a. de geboorte, eigenschappen, soorten, instincten en geschiedenis. Met paginagrote kleurenfoto's. Vanaf ca. 10 jaar; voor jongere kinderen onder begeleiding."
+      ],
+      "description": [
+        "122 p",
+        "122 p: ill ; 35 cm"
+      ],
+      "note": "Vert. van: Au pays des chiens. - Toulouse : Milan, cop. 2005",
+      "series": [{
+        "text": "Het grote kijkboek"
+      }],
+      "undup": {
+        "alsoAvailableAsCount": "0",
+        "items": [{
+          "key1": "honden",
+          "key2": "sabine dumontier",
+          "cnt": "1",
+          "value": "2F6C009151F360A0"
+        }]
+      },
+      "siso": [
+        "J634.1"
+      ]
+    },
+    {
+      "id": "|oba-catalogus|604466",
+      "frabl": {
+        "key1": "honden",
+        "key2": "cora willemse",
+        "cnt": "1",
+        "value": "32CD96D0AEF360A0"
+      },
+      "detailLink": "http://zoeken.oba.nl/detail/Cora-Willemse/Honden/Boek/?itemid=%7coba-catalogus%7c604466",
+      "titles": [
+        "Honden",
+        "Honden / Cora Willemse"
+      ],
+      "isbn": [
+        "9001152910"
+      ],
+      "coverimages": [
+        "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=294510451&isbn=9789001152918&lid=&aut=&ti=&size=70",
+        "https://v111.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/294510451&token=c1322402"
+      ],
+      "formats": [{
+        "text": "Boek",
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20200304.234430"
+      }],
+      "authors": [
+        "Cora Willemse",
+        "Ida Schuurman"
+      ],
+      "authorsDetailed": [{
+          "full": "Cora Willemse",
+          "firstname": "Cora",
+          "lastname": "Willemse",
+          "creatortype": "person"
+        },
+        {
+          "full": "Ida Schuurman",
+          "lastname": "Ida Schuurman",
+          "creatortype": "organization"
+        }
+      ],
+      "year": "2006",
+      "publisher": [
+        "Wolters-Noordhoff, Groningen [etc.], 2006"
+      ],
+      "subject-topical": [
+        "honden"
+      ],
+      "languages": [
+        "Nederlands"
+      ],
+      "description": [
+        "20 p",
+        "20 p: ill., foto's ; 22 cm"
+      ],
+      "series": [{
+        "text": "Junior informatie"
+      }],
+      "undup": {
+        "alsoAvailableAsCount": "0",
+        "items": [{
+          "key1": "honden",
+          "key2": "cora willemse",
+          "cnt": "1",
+          "value": "32CD96D0AEF360A0"
+        }]
+      },
+      "siso": [
+        "J634.1"
+      ]
+    },
+    {
+      "id": "|oba-catalogus|590384",
+      "frabl": {
+        "key1": "honden",
+        "key2": "yvonne rees",
+        "cnt": "1",
+        "value": "3D1DEA5E55F360A0"
+      },
+      "detailLink": "http://zoeken.oba.nl/detail/Yvonne-Rees/Honden/Boek/?itemid=%7coba-catalogus%7c590384",
+      "titles": [
+        "Honden",
+        "Honden / Yvonne Rees ; [vert. uit het Engels, red.: TextCase]"
+      ],
+      "isbn": [
+        "9062487114 (geb.)"
+      ],
+      "coverimages": [
+        "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=08708063X&isbn=9789062487110&lid=&aut=&ti=&size=70",
+        "https://v111.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/08708063X&token=c1322402"
+      ],
+      "formats": [{
+        "text": "Boek",
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20200304.234430"
+      }],
+      "authors": [
+        "Yvonne Rees"
+      ],
+      "authorsDetailed": [{
+        "full": "Yvonne Rees",
+        "firstname": "Yvonne",
+        "lastname": "Rees",
+        "creatortype": "person"
+      }],
+      "year": "1991",
+      "publisher": [
+        "Zuid Boekprodukties, Lisse, cop. 1991"
+      ],
+      "subject-topical": [
+        "Honden"
+      ],
+      "languages": [
+        "Nederlands",
+        "Engels"
+      ],
+      "summaries": [
+        "Van veel kleurenfoto's voorziene informatie over honden. Vanaf ca. 12 jaar.Informatie in woord en beeld over allerlei aspecten van de hond."
+      ],
+      "description": [
+        "62 p",
+        "62 p: foto's ; 30 cm"
+      ],
+      "note": "Met reg",
+      "series": [{
+        "text": "De natuurbibliotheek."
+      }],
+      "undup": {
+        "alsoAvailableAsCount": "0",
+        "items": [{
+          "key1": "honden",
+          "key2": "yvonne rees",
+          "cnt": "1",
+          "value": "3D1DEA5E55F360A0"
+        }]
+      },
+      "siso": [
+        "634.1"
+      ]
+    },
+    {
+      "id": "|oba-catalogus|663703",
+      "frabl": {
+        "key1": "honden",
+        "key2": "bruce fogle",
+        "cnt": "1",
+        "value": "5BD11D06C9F360A0"
+      },
+      "detailLink": "http://zoeken.oba.nl/detail/Bruce-Fogle/Honden/Boek/?itemid=%7coba-catalogus%7c663703",
+      "titles": [
+        "Honden",
+        "Honden / Bruce Fogle"
+      ],
+      "isbn": [
+        "9789026936685"
+      ],
+      "coverimages": [
+        "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=301061300&isbn=9789026936685&lid=&aut=&ti=&size=70",
+        "https://v111.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/301061300&token=c1322402"
+      ],
+      "formats": [{
+        "text": "Boek",
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20200304.234430"
+      }],
+      "authors": [
+        "Bruce Fogle",
+        "Liz Wheeler",
+        "Willeke Barens"
+      ],
+      "authorsDetailed": [{
+          "full": "Bruce Fogle",
+          "firstname": "Bruce",
+          "lastname": "Fogle",
+          "creatortype": "person"
+        },
+        {
+          "full": "Liz Wheeler",
+          "lastname": "Liz Wheeler",
+          "creatortype": "organization"
+        },
+        {
+          "full": "Willeke Barens",
+          "lastname": "Willeke Barens",
+          "creatortype": "organization"
+        }
+      ],
+      "year": "2007",
+      "publisher": [
+        "Focus/Unieboek, Houten, 2007"
+      ],
+      "subject-topical": [
+        "Honden",
         "Gidsen"
       ],
       "languages": [
@@ -144,1335 +770,750 @@ export default {
         "Engels"
       ],
       "description": [
-        "288 p",
-        "288 p: ill ; 23 cm"
+        "344 p",
+        "344 p: ill ; 22 cm"
       ],
-      "note": "Vert. van: Beer. - London : Dorling Kindersley, cop. 2007. - (Eyewitness companions)",
+      "note": "Vert. van: Dogs. - London : Dorling Kindersley, cop. 2006. - (Eyewitness companions)",
       "series": [{
         "text": "Unieboek Focus"
       }],
       "undup": {
         "alsoAvailableAsCount": "0",
         "items": [{
-          "key1": "bier",
-          "key2": "michael jackson lorenzo dabove pieter keyzer jantine crezee",
+          "key1": "honden",
+          "key2": "bruce fogle",
           "cnt": "1",
-          "value": "3C3E9B072F360A0"
+          "value": "5BD11D06C9F360A0"
         }]
       },
       "siso": [
-        "678.71"
+        "634.1"
       ]
     },
     {
-      "id": "|oba-catalogus|202628",
+      "id": "|oba-catalogus|164715",
       "frabl": {
-        "key1": "bier",
-        "key2": "jacques hoste",
+        "key1": "honden",
+        "key2": "david alderton",
         "cnt": "1",
-        "value": "4658A1823DF360A0"
+        "value": "27B0AABEBEF360A0"
       },
-      "detailLink": "http://zoeken.oba.nl/detail/Jacques-Hoste/Bier/Boek/?itemid=%7coba-catalogus%7c202628",
+      "detailLink": "http://zoeken.oba.nl/detail/David-Alderton/Honden/Boek/?itemid=%7coba-catalogus%7c164715",
       "titles": [
-        "Bier",
-        "Bier / Jacques Hoste"
+        "Honden",
+        "Honden / David Alderton ; fotogr. van Tracy Morgan ; vert. [uit het Engels] en bew. door Stephe Bruin"
       ],
       "isbn": [
-        "906306411X"
+        "9024649277 (geb.)"
       ],
       "coverimages": [
-        "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=190094486&isbn=9789063064112&lid=&aut=&ti=&size=70",
-        "https://v111.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/190094486&token=c1322402"
+        "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=115250700&isbn=9789024649273&lid=&aut=&ti=&size=70",
+        "https://v111.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/115250700&token=c1322402"
       ],
       "formats": [{
         "text": "Boek",
-        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20200302.144703"
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20200304.234430"
       }],
       "authors": [
-        "Jacques Hoste"
+        "David Alderton",
+        "Stephe Bruin"
       ],
       "authorsDetailed": [{
-        "full": "Jacques Hoste",
-        "firstname": "Jacques",
-        "lastname": "Hoste",
-        "creatortype": "person"
-      }],
-      "year": "2000",
-      "publisher": [
-        "Davidsfonds/Literair, Leuven, 2000"
-      ],
-      "genres": [
-        "Psychologisch verhaal",
-        "Verhalenbundel"
-      ],
-      "languages": [
-        "Nederlands"
-      ],
-      "summaries": [
-        "Verhalen over op zichzelf teruggeworpen figuren, zoals een werkloze onderwijzer die in een brouwerij gaat werken"
-      ],
-      "description": [
-        "65 p",
-        "65 p ; 22 cm"
-      ],
-      "note": "Oorspr. titel:",
-      "undup": {
-        "alsoAvailableAsCount": "0",
-        "items": [{
-          "key1": "bier",
-          "key2": "jacques hoste",
-          "cnt": "1",
-          "value": "4658A1823DF360A0"
-        }]
-      }
-    },
-    {
-      "id": "|oba-catalogus|1178621",
-      "frabl": {
-        "key1": "bier foodcombinaties",
-        "key2": "stephen beaumont",
-        "cnt": "1",
-        "value": "12F4E603F4F360A0"
-      },
-      "detailLink": "http://zoeken.oba.nl/detail/Stephen-Beaumont/Bier-foodcombinaties/Boek/?itemid=%7coba-catalogus%7c1178621",
-      "titles": [
-        "Bier & foodcombinaties",
-        "Bier & foodcombinaties / Stephen Beaumont"
-      ],
-      "isbn": [
-        "=9789048315406"
-      ],
-      "coverimages": [
-        "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=410916226&isbn=9789048315406&lid=&aut=&ti=&size=70",
-        "https://v111.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/410916226&token=c1322402"
-      ],
-      "formats": [{
-        "text": "Boek",
-        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20200302.144703"
-      }],
-      "authors": [
-        "Stephen Beaumont",
-        "Peter Cassidy",
-        "Paulina de Nijs"
-      ],
-      "authorsDetailed": [{
-          "full": "Stephen Beaumont",
-          "firstname": "Stephen",
-          "lastname": "Beaumont",
-          "localized-type": "Auteur",
+          "full": "David Alderton",
+          "firstname": "David",
+          "lastname": "Alderton",
           "creatortype": "person"
         },
         {
-          "full": "Peter Cassidy",
-          "lastname": "Peter Cassidy",
-          "localized-type": "Illustrator",
-          "creatortype": "organization"
-        },
-        {
-          "full": "Paulina de Nijs",
-          "lastname": "Paulina de Nijs",
-          "localized-type": "Vertaler",
+          "full": "Stephe Bruin",
+          "lastname": "Stephe Bruin",
           "creatortype": "organization"
         }
       ],
-      "year": "2017",
+      "year": "1994",
       "publisher": [
-        "Veltman Uitgevers, Utrecht, [2017]"
+        "Bosch & Keuning, Baarn, cop. 1994"
       ],
       "subject-topical": [
-        "Bier",
-        "Kookboeken"
+        "Honden"
       ],
       "languages": [
         "Nederlands",
         "Engels"
       ],
       "description": [
-        "224 pagina's",
-        "224 pagina's: illustraties ; 26 cm"
+        "304 p",
+        "304 p: ill ; 22 cm"
       ],
-      "note": "Vertaling van: The beer & food companion. - Jacqui Small Llp, 2015",
+      "note": "Met reg",
+      "series": [{
+        "text": "Sesam natuur handboeken"
+      }],
       "undup": {
         "alsoAvailableAsCount": "0",
         "items": [{
-          "key1": "bier foodcombinaties",
-          "key2": "stephen beaumont",
+          "key1": "honden",
+          "key2": "david alderton",
           "cnt": "1",
-          "value": "12F4E603F4F360A0"
+          "value": "27B0AABEBEF360A0"
         }]
       },
       "siso": [
-        "629.2"
+        "634.18"
       ]
     },
     {
-      "id": "|oba-catalogus|1147586",
+      "id": "|oba-catalogus|347443",
       "frabl": {
-        "key1": "bier food",
-        "key2": "puck kerkhoven",
+        "key1": "honden",
+        "key2": "juliet clutton brock",
         "cnt": "1",
-        "value": "7D11969E99F360A0"
+        "value": "1710C5D2B5F360A0"
       },
-      "detailLink": "http://zoeken.oba.nl/detail/Puck-Kerkhoven/Bier-food/Boek/?itemid=%7coba-catalogus%7c1147586",
+      "detailLink": "http://zoeken.oba.nl/detail/Juliet-Clutton-Brock/Honden/Boek/?itemid=%7coba-catalogus%7c347443",
       "titles": [
-        "Bier & food",
-        "Bier & food / Puck Kerkhoven"
+        "Honden",
+        "Honden / Juliet Clutton-Brock ; [hoofdred.: Helen Parker ; speciale fotogr.: Jerry Young ... et al. ; vert. uit het Engels: Jan Smit]"
       ],
       "isbn": [
-        "=9789401604147"
+        "9002191006 (geb.)"
       ],
       "coverimages": [
-        "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=398779619&isbn=9789401604147&lid=&aut=&ti=&size=70",
-        "https://v111.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/398779619&token=c1322402"
+        "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=205268218&isbn=9789002191008&lid=&aut=&ti=&size=70",
+        "https://v111.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/205268218&token=c1322402"
       ],
       "formats": [{
         "text": "Boek",
-        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20200302.144703"
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20200304.234430"
       }],
       "authors": [
-        "Puck Kerkhoven",
-        "Daan Brand"
+        "Juliet Clutton-Brock",
+        "Helen Parker",
+        "Jerry Young",
+        "Jan Smit"
       ],
       "authorsDetailed": [{
-          "full": "Puck Kerkhoven",
-          "firstname": "Puck",
-          "lastname": "Kerkhoven",
+          "full": "Juliet Clutton-Brock",
+          "firstname": "Juliet",
+          "lastname": "Clutton-Brock",
+          "creatortype": "person"
+        },
+        {
+          "full": "Helen Parker",
+          "lastname": "Helen Parker",
+          "creatortype": "organization"
+        },
+        {
+          "full": "Jerry Young",
+          "lastname": "Jerry Young",
+          "creatortype": "organization"
+        },
+        {
+          "full": "Jan Smit",
+          "lastname": "Jan Smit",
+          "creatortype": "organization"
+        }
+      ],
+      "year": "2000",
+      "publisher": [
+        "Standaard, Antwerpen, cop. 2000"
+      ],
+      "subject-topical": [
+        "Hondachtigen"
+      ],
+      "languages": [
+        "Nederlands",
+        "Engels"
+      ],
+      "summaries": [
+        "Met hulp van veel kleurenfoto's wordt verteld over honden, wolven, jakhalzen en vossen. Vanaf ca. 12 jaar.Overzicht in woord en beeld van honden, wolven, jakhalzen en vossen."
+      ],
+      "description": [
+        "63 p",
+        "63 p: ill ; 29 cm"
+      ],
+      "note": "Met reg",
+      "series": [{
+        "text": "Ooggetuigen"
+      }],
+      "undup": {
+        "alsoAvailableAsCount": "0",
+        "items": [{
+          "key1": "honden",
+          "key2": "juliet clutton brock",
+          "cnt": "1",
+          "value": "1710C5D2B5F360A0"
+        }]
+      },
+      "siso": [
+        "598.95"
+      ]
+    },
+    {
+      "id": "|oba-catalogus|1128490",
+      "frabl": {
+        "key1": "de honden",
+        "key2": "allan stratton",
+        "cnt": "1",
+        "value": "33F0C76EECF360A0"
+      },
+      "detailLink": "http://zoeken.oba.nl/detail/Allan-Stratton/De-honden/Boek/?itemid=%7coba-catalogus%7c1128490",
+      "titles": [
+        "De honden",
+        "De honden / Allan Stratton"
+      ],
+      "isbn": [
+        "=9789025758806",
+        "=9789025760380"
+      ],
+      "coverimages": [
+        "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=38346496X&isbn=9789025758806&lid=&aut=&ti=&size=70",
+        "https://v111.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/38346496X&token=c1322402"
+      ],
+      "formats": [{
+        "text": "Boek",
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20200304.234430"
+      }],
+      "authors": [
+        "Allan Stratton",
+        "Annelies Jorna"
+      ],
+      "authorsDetailed": [{
+          "full": "Allan Stratton",
+          "firstname": "Allan",
+          "lastname": "Stratton",
           "localized-type": "Auteur",
           "creatortype": "person"
         },
         {
-          "full": "Daan Brand",
-          "lastname": "Daan Brand",
-          "localized-type": "Illustrator",
+          "full": "Annelies Jorna",
+          "lastname": "Annelies Jorna",
+          "localized-type": "Vertaler",
           "creatortype": "organization"
         }
       ],
       "year": "2015",
       "publisher": [
-        "Xander Uitgevers BV, Amsterdam, 2015"
+        "Gottmer, Haarlem, 2015"
       ],
       "subject-topical": [
-        "Bier",
-        "Kookboeken"
+        "Spoken",
+        "Geweld",
+        "Vaders"
+      ],
+      "languages": [
+        "Nederlands",
+        "Engels"
+      ],
+      "summaries": [
+        "Cameron en zijn moeder slaan op de vlucht voor zijn gewelddadige vader. Ze gaan wonen op een boerderij met een griezelig verleden, waar Cameron steeds verder in verstrikt raakt. Vanaf ca. 12 jaar."
+      ],
+      "description": [
+        "304 pagina's",
+        "304 pagina's ; 21 cm"
+      ],
+      "note": "Vertaling van: The dogs. - Londen : Andersen Press, (c)2015",
+      "undup": {
+        "alsoAvailableAsCount": "0",
+        "items": [{
+          "key1": "de honden",
+          "key2": "allan stratton",
+          "cnt": "1",
+          "value": "33F0C76EECF360A0"
+        }]
+      }
+    },
+    {
+      "id": "|oba-catalogus|583149",
+      "frabl": {
+        "key1": "honden",
+        "key2": "marcus schneck",
+        "cnt": "1",
+        "value": "76A20E1224F36000"
+      },
+      "detailLink": "http://zoeken.oba.nl/detail/Marcus-Schneck/Honden/Boek/?itemid=%7coba-catalogus%7c583149",
+      "titles": [
+        "Honden",
+        "Honden / Marcus Schneck & Jill Caravan ; [vert. uit het Engels: Bert Stroo ; eindred. Nederlandse uitg.: Maarten Scheepens]"
+      ],
+      "isbn": [
+        "9061136326 *geb"
+      ],
+      "coverimages": [
+        "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=108713121&isbn=9789061136323&lid=&aut=&ti=&size=70",
+        "https://v111.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/108713121&token=c1322402"
+      ],
+      "formats": [{
+        "text": "Boek",
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20200304.234430"
+      }],
+      "authors": [
+        "Marcus Schneck",
+        "Maarten Scheepens",
+        "Bert Stroo",
+        "Jill Caravan"
+      ],
+      "authorsDetailed": [{
+          "full": "Marcus Schneck",
+          "firstname": "Marcus",
+          "lastname": "Schneck",
+          "creatortype": "person"
+        },
+        {
+          "full": "Maarten Scheepens",
+          "lastname": "Maarten Scheepens",
+          "creatortype": "organization"
+        },
+        {
+          "full": "Bert Stroo",
+          "lastname": "Bert Stroo",
+          "creatortype": "organization"
+        },
+        {
+          "full": "Jill Caravan",
+          "lastname": "Jill Caravan",
+          "creatortype": "organization"
+        }
+      ],
+      "year": "134m",
+      "publisher": [
+        "Atrium, Alphen aan den Rijn, 1993 - 80 p. ill. 34 cm"
+      ],
+      "subject-topical": [
+        "Honden ; Fotoboeken"
+      ],
+      "note": "Oorspr. uitg.: New York : Todtri Productions, cop. 1993 - Oorspr. uitg.: New York : Todtri Productions, cop. 1993",
+      "series": [{
+        "text": "Atrium dierenreeks"
+      }],
+      "undup": {
+        "alsoAvailableAsCount": "0",
+        "items": [{
+          "key1": "honden",
+          "key2": "marcus schneck",
+          "cnt": "1",
+          "value": "76A20E1224F36000"
+        }]
+      },
+      "siso": [
+        "634.18"
+      ]
+    },
+    {
+      "id": "|oba-catalogus|37885",
+      "frabl": {
+        "key1": "honden",
+        "key2": "",
+        "cnt": "1",
+        "value": "2C112D4373138CA0"
+      },
+      "detailLink": "http://zoeken.oba.nl/detail/Honden/Dvd/?itemid=%7coba-catalogus%7c37885",
+      "titles": [
+        "Honden",
+        "Honden / prod. Emma Peddie ; mus. Guy Michelmore ; series prod. Bill Butt"
+      ],
+      "coverimages": [
+        "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=250637073&isbn=&lid=&aut=&ti=&size=70",
+        "https://v111.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/250637073&token=c1322402"
+      ],
+      "formats": [{
+          "text": "Dvd",
+          "icon": "/assets/resources/img/mat/dvd.png?skin=oba&bld=20200304.234430"
+        },
+        {
+          "text": "Film",
+          "icon": "/assets/resources/img/mat/movie.png?skin=oba&bld=20200304.234430"
+        }
+      ],
+      "year": "2003",
+      "publisher": [
+        "[Groot-Brittannië]",
+        "Dorling Kindersley etc. [prod.], cop. 1994, Sint-Niklaas",
+        "VDM Video [dist.], [2003]"
+      ],
+      "subject-topical": [
+        "Honden"
       ],
       "languages": [
         "Nederlands"
       ],
+      "types": [
+        "Film"
+      ],
       "summaries": [
-        "Informatief boek over speciaalbieren met recepturen."
+        "Feiten en wetenswaardigheden over de oorsprong en de rol van honden in de geschiedenis, in de natuur en in verschillende culturen"
       ],
       "description": [
-        "197 pagina's",
-        "197 pagina's: illustraties ; 25 cm"
+        "1 dvd-video (30 min.)",
+        "1 dvd-video (30 min.): kleur, geluid"
       ],
-      "note": "In colofon: Tekst, receptuur en bereiding: Puck Kerkhoven, Redfox Media. - Met literatuuropgave, register",
+      "note": "Nederlands of Frans gesproken",
+      "type": "Film",
+      "series": [{
+        "text": "Ooggetuige"
+      }],
       "undup": {
         "alsoAvailableAsCount": "0",
         "items": [{
-          "key1": "bier food",
-          "key2": "puck kerkhoven",
+          "key1": "honden",
+          "key2": "",
           "cnt": "1",
-          "value": "7D11969E99F360A0"
+          "value": "2C112D4373138CA0"
         }]
       },
       "siso": [
-        "678.71"
+        "634.1"
       ]
     },
     {
-      "id": "|oba-catalogus|1218977",
+      "id": "|oba-catalogus|1223590",
       "frabl": {
-        "key1": "bier in de keuken recepten met bier de lekkerste bieren bij je gerecht",
-        "key2": "melissa cole",
+        "key1": "100 honden",
+        "key2": "michael whaite",
         "cnt": "1",
-        "value": "2ED405A41CF360A0"
+        "value": "1EEA80344DF360A0"
       },
-      "detailLink": "http://zoeken.oba.nl/detail/Melissa-Cole/Bier-in-de-keuken-recepten-met-bier-de/Boek/?itemid=%7coba-catalogus%7c1218977",
+      "detailLink": "http://zoeken.oba.nl/detail/Michael-Whaite/100-honden/Boek/?itemid=%7coba-catalogus%7c1223590",
       "titles": [
-        "Bier in de keuken : recepten met bier & de lekkerste bieren bij je gerecht",
-        "Bier in de keuken : recepten met bier & de lekkerste bieren bij je gerecht / Melissa Cole"
+        "100 honden",
+        "100 honden / Michael Whaite"
       ],
       "isbn": [
-        "=9789000366569"
+        "=9789463132220"
       ],
       "coverimages": [
-        "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=420810331&isbn=9789000366569&lid=&aut=&ti=&size=70",
-        "https://v111.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/420810331&token=c1322402"
+        "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=422918210&isbn=9789463132220&lid=&aut=&ti=&size=70",
+        "https://v111.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/422918210&token=c1322402"
       ],
       "formats": [{
         "text": "Boek",
-        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20200302.144703"
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20200304.234430"
       }],
       "authors": [
-        "Melissa Cole",
-        "Patricia Niven",
-        "Marthe Philipse"
+        "Michael Whaite",
+        "Rikky Schrever"
       ],
       "authorsDetailed": [{
-          "full": "Melissa Cole",
-          "firstname": "Melissa",
-          "lastname": "Cole",
+          "full": "Michael Whaite",
+          "firstname": "Michael",
+          "lastname": "Whaite",
           "localized-type": "Auteur",
           "creatortype": "person"
         },
         {
-          "full": "Patricia Niven",
-          "lastname": "Patricia Niven",
-          "localized-type": "Illustrator",
-          "creatortype": "organization"
-        },
-        {
-          "full": "Marthe Philipse",
-          "lastname": "Marthe Philipse",
+          "full": "Rikky Schrever",
+          "lastname": "Rikky Schrever",
           "localized-type": "Vertaler",
           "creatortype": "organization"
         }
       ],
       "year": "2019",
       "publisher": [
-        "Spectrum, Amsterdam, 2019"
+        "Uitgeverij Memphis Belle, Amsterdam, [2019]"
       ],
       "subject-topical": [
-        "Bierrecepten",
-        "Bier"
+        "Honden",
+        "Rijmvertellingen",
+        "Zoekboeken"
       ],
-      "languages": [
-        "Nederlands",
-        "Engels"
-      ],
-      "description": [
-        "223 pagina's",
-        "223 pagina's: illustraties ; 26 cm"
-      ],
-      "note": "Vertaling van: The beer kitchen : the art & science of cooking, & pairing, with beer. - London : Hardie Grant Books, (c)2018",
-      "undup": {
-        "alsoAvailableAsCount": "0",
-        "items": [{
-          "key1": "bier in de keuken recepten met bier de lekkerste bieren bij je gerecht",
-          "key2": "melissa cole",
-          "cnt": "1",
-          "value": "2ED405A41CF360A0"
-        }]
-      },
-      "siso": [
-        "678.71"
-      ]
-    },
-    {
-      "id": "|oba-catalogus|300943",
-      "frabl": {
-        "key1": "bier geschiedenis van een volksdrank",
-        "key2": "renee kistemaker vtvan vilsteren lhendrikman",
-        "cnt": "1",
-        "value": "D3C91BB3DF360A0"
-      },
-      "detailLink": "http://zoeken.oba.nl/detail/Renee-Kistemaker/Bier!-geschiedenis-van-een-volksdrank/Boek/?itemid=%7coba-catalogus%7c300943",
-      "titles": [
-        "Bier! : geschiedenis van een volksdrank",
-        "Bier! : geschiedenis van een volksdrank / red.: R.E. Kistemaker, V.T. van Vilsteren ; beeldred.: L. Hendrikman"
-      ],
-      "isbn": [
-        "9067073423 (geb.)",
-        "9067073431",
-        "9067073431"
-      ],
-      "coverimages": [
-        "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=120332957&isbn=9789067073424&lid=&aut=&ti=&size=70",
-        "https://v111.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/120332957&token=c1322402"
-      ],
-      "formats": [{
-        "text": "Boek",
-        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20200302.144703"
-      }],
-      "authors": [
-        "Renée Kistemaker",
-        "V.T. van Vilsteren",
-        "L. Hendrikman"
-      ],
-      "authorsDetailed": [{
-          "full": "Renée Kistemaker",
-          "lastname": "Renée Kistemaker",
-          "creatortype": "organization"
-        },
-        {
-          "full": "V.T. van Vilsteren",
-          "lastname": "V.T. van Vilsteren",
-          "creatortype": "organization"
-        },
-        {
-          "full": "L. Hendrikman",
-          "lastname": "L. Hendrikman",
-          "creatortype": "organization"
-        }
-      ],
-      "year": "1994",
-      "publisher": [
-        "De Bataafsche Leeuw, Amsterdam, 1994"
-      ],
-      "subject-topical": [
-        "Bier",
-        "Nederland",
-        "Geschiedenis"
-      ],
-      "languages": [
-        "Nederlands"
-      ],
-      "description": [
-        "156 p",
-        "156 p: ill ; 29 cm"
-      ],
-      "note": "Met lit. opg",
-      "undup": {
-        "alsoAvailableAsCount": "0",
-        "items": [{
-          "key1": "bier geschiedenis van een volksdrank",
-          "key2": "renee kistemaker vtvan vilsteren lhendrikman",
-          "cnt": "1",
-          "value": "D3C91BB3DF360A0"
-        }]
-      },
-      "siso": [
-        "678.71"
-      ]
-    },
-    {
-      "id": "|oba-catalogus|581854",
-      "frabl": {
-        "key1": "atrium bier encyclopedie",
-        "key2": "roger protz",
-        "cnt": "1",
-        "value": "445F358D87F360A0"
-      },
-      "detailLink": "http://zoeken.oba.nl/detail/Roger-Protz/Atrium-bier-encyclopedie/Boek/?itemid=%7coba-catalogus%7c581854",
-      "titles": [
-        "Atrium bier encyclopedie",
-        "Atrium bier encyclopedie / Roger Protz ; [vert. uit het Engels: Ger Boer ; red. Nederlandse ed.: Dirk van Beek]"
-      ],
-      "isbn": [
-        "9061137950 (geb.)"
-      ],
-      "coverimages": [
-        "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=147967570&isbn=9789061137955&lid=&aut=&ti=&size=70",
-        "https://v111.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/147967570&token=c1322402"
-      ],
-      "formats": [{
-        "text": "Boek",
-        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20200302.144703"
-      }],
-      "authors": [
-        "Roger Protz",
-        "Ger Boer",
-        "Dirk van Beek"
-      ],
-      "authorsDetailed": [{
-          "full": "Roger Protz",
-          "firstname": "Roger",
-          "lastname": "Protz",
-          "creatortype": "person"
-        },
-        {
-          "full": "Ger Boer",
-          "lastname": "Ger Boer",
-          "creatortype": "organization"
-        },
-        {
-          "full": "Dirk van Beek",
-          "lastname": "Dirk van Beek",
-          "creatortype": "organization"
-        }
-      ],
-      "year": "1996",
-      "publisher": [
-        "Atrium, Alphen aan den Rijn, cop. 1996"
-      ],
-      "subject-topical": [
-        "Bier"
+      "genres": [
+        "Dieren",
+        "Humor"
       ],
       "languages": [
         "Nederlands",
         "Engels"
       ],
       "summaries": [
-        "Overzicht van de belangrijkste bieren en hun brouwers, gerangschikt per land, de bierproductie, de -handel, -café's en biercultuur."
+        "Een jongen zoekt zijn hond. Intussen ziet hij allerlei soorten honden, wel honderd! Natuurlijk zijn er grote, kleine, dikke en dunne honden. Maar hij ziet ook huilende, modderige en trotse honden, en zelfs een ziet-er-niet-uit-hond en een houdt-niet-van-hondenweer-hond. Prentenboek met grappige kleurenillustraties van honderd honden en tekst op rijm. Vanaf ca. 4 jaar."
       ],
       "description": [
-        "224 p",
-        "224 p: ill., foto's ; 29 cm"
+        "32 ongenummerde pagina's",
+        "32 ongenummerde pagina's: gekleurde illustraties ; 26 cm"
       ],
-      "note": "Met lit. opg., reg",
+      "note": "Vertaling van: 100 dogs.  - (c)2019",
       "undup": {
         "alsoAvailableAsCount": "0",
         "items": [{
-          "key1": "atrium bier encyclopedie",
-          "key2": "roger protz",
+          "key1": "100 honden",
+          "key2": "michael whaite",
           "cnt": "1",
-          "value": "445F358D87F360A0"
+          "value": "1EEA80344DF360A0"
         }]
-      },
-      "siso": [
-        "678.71"
-      ]
+      }
     },
     {
-      "id": "|oba-catalogus|1124527",
+      "id": "|oba-catalogus|896251",
       "frabl": {
-        "key1": "bier brouwen doe je zelf",
-        "key2": "jean francois simard",
+        "key1": "honden",
+        "key2": "jo willems",
         "cnt": "1",
-        "value": "3B8FCF7E00F360A0"
+        "value": "29947DE990F360A0"
       },
-      "detailLink": "http://zoeken.oba.nl/detail/Jean-Francois-Simard/Bier-brouwen-doe-je-zelf/Boek/?itemid=%7coba-catalogus%7c1124527",
+      "detailLink": "http://zoeken.oba.nl/detail/Jo-Willems/Honden/Boek/?itemid=%7coba-catalogus%7c896251",
       "titles": [
-        "Bier brouwen doe je zelf",
-        "Bier brouwen doe je zelf / Jean-Francois Simard"
+        "Honden",
+        "Honden / Jo Willems"
       ],
       "isbn": [
-        "=9789081739436"
+        "9789046804957"
       ],
       "coverimages": [
-        "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=381168409&isbn=9789081739436&lid=&aut=&ti=&size=70",
-        "https://v111.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/381168409&token=c1322402"
+        "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=316164798&isbn=9789046804957&lid=&aut=&ti=&size=70",
+        "https://v111.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/316164798&token=c1322402"
       ],
       "formats": [{
         "text": "Boek",
-        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20200302.144703"
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20200304.234430"
       }],
       "authors": [
-        "Jean-François Simard",
-        "Wim Van Meerbeeck"
+        "Jo Willems"
       ],
       "authorsDetailed": [{
-          "full": "Jean-François Simard",
-          "firstname": "Jean-François",
-          "lastname": "Simard",
-          "localized-type": "Auteur",
+        "full": "Jo Willems",
+        "firstname": "Jo",
+        "lastname": "Willems",
+        "creatortype": "person"
+      }],
+      "year": "2009",
+      "publisher": [
+        "Nieuw Amsterdam, [Amsterdam], cop. 2009"
+      ],
+      "subject-topical": [
+        "Sri Lanka"
+      ],
+      "genres": [
+        "Avontureroman"
+      ],
+      "languages": [
+        "Nederlands"
+      ],
+      "summaries": [
+        "Een zieke 60-jarige Noor keert na ruim twintig jaar terug naar Colombo in Sri Lanka, waar hij zijn wilde verleden in de onderwereld weer wil oppakken."
+      ],
+      "description": [
+        "317 p",
+        "317 p ; 21 cm"
+      ],
+      "undup": {
+        "alsoAvailableAsCount": "0",
+        "items": [{
+          "key1": "honden",
+          "key2": "jo willems",
+          "cnt": "1",
+          "value": "29947DE990F360A0"
+        }]
+      }
+    },
+    {
+      "id": "|oba-catalogus|991879",
+      "frabl": {
+        "key1": "honden",
+        "key2": "tille vincent",
+        "cnt": "1",
+        "value": "39BF647462F360A0"
+      },
+      "detailLink": "http://zoeken.oba.nl/detail/Tille-Vincent/Honden/Boek/?itemid=%7coba-catalogus%7c991879",
+      "titles": [
+        "Honden",
+        "Honden / een nieuwe case van Tille Vincent"
+      ],
+      "isbn": [
+        "9789020992229"
+      ],
+      "coverimages": [
+        "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=332918068&isbn=9789020992229&lid=&aut=&ti=&size=70",
+        "https://v111.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/332918068&token=c1322402"
+      ],
+      "formats": [{
+        "text": "Boek",
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20200304.234430"
+      }],
+      "authors": [
+        "Tille Vincent"
+      ],
+      "authorsDetailed": [{
+        "full": "Tille Vincent",
+        "firstname": "Tille",
+        "lastname": "Vincent",
+        "creatortype": "person"
+      }],
+      "year": "2011",
+      "publisher": [
+        "Tielt",
+        "Lannoo, Vilvoorde",
+        "vtm books, cop. 2011"
+      ],
+      "genres": [
+        "Detective"
+      ],
+      "languages": [
+        "Nederlands"
+      ],
+      "summaries": [
+        "Hannah Maes en haar collega's onderzoeken een zaak waarbij een 8-jarig meisje seksueel misbruikt werd, maar tijdens een gesprek met een kinderpsychiater blijkt dat zij zich daar niets van herinnert."
+      ],
+      "description": [
+        "283 p",
+        "283 p ; 21 cm"
+      ],
+      "note": "Gebaseerd op de vtm-serie Code 37",
+      "series": [{
+        "text": "Code 37"
+      }],
+      "undup": {
+        "alsoAvailableAsCount": "0",
+        "items": [{
+          "key1": "honden",
+          "key2": "tille vincent",
+          "cnt": "1",
+          "value": "39BF647462F360A0"
+        }]
+      }
+    },
+    {
+      "id": "|oba-catalogus|797789",
+      "frabl": {
+        "key1": "honden vrolijke kameraden",
+        "key2": "valerie tracqui",
+        "cnt": "2",
+        "value": "10E5D385A7F360A0"
+      },
+      "detailLink": "http://zoeken.oba.nl/detail/Valerie-Tracqui/Honden-vrolijke-kameraden/Boek/?itemid=%7coba-catalogus%7c797789",
+      "titles": [
+        "Honden : vrolijke kameraden",
+        "Honden : vrolijke kameraden / tekst en eindred.: Valérie Tracqui"
+      ],
+      "isbn": [
+        "9789054837299"
+      ],
+      "coverimages": [
+        "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=306660873&isbn=9789054837299&lid=&aut=&ti=&size=70",
+        "https://v111.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/306660873&token=c1322402"
+      ],
+      "formats": [{
+        "text": "Boek",
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20200304.234430"
+      }],
+      "authors": [
+        "Valerie Tracqui",
+        "Marie-Luce Hubert",
+        "Wim Sanders"
+      ],
+      "authorsDetailed": [{
+          "full": "Valerie Tracqui",
+          "firstname": "Valerie",
+          "lastname": "Tracqui",
           "creatortype": "person"
         },
         {
-          "full": "Wim Van Meerbeeck",
-          "lastname": "Wim Van Meerbeeck",
-          "localized-type": "Vertaler",
+          "full": "Marie-Luce Hubert",
+          "lastname": "Marie-Luce Hubert",
+          "creatortype": "organization"
+        },
+        {
+          "full": "Wim Sanders",
+          "lastname": "Wim Sanders",
           "creatortype": "organization"
         }
       ],
-      "year": "2014",
+      "year": "2007",
       "publisher": [
-        "Brouwland, Beverlo, [2014]"
+        "Biblion Uitgeverij, Leidschendam, cop. 2007"
       ],
       "subject-topical": [
-        "Bier",
-        "Bereiding"
+        "Honden"
       ],
       "languages": [
         "Nederlands",
         "Frans"
       ],
       "summaries": [
-        "Praktische gids voor het zelf brouwen van bier."
+        "In paginagrote kleurenfoto's en een eenvoudige tekst wordt verteld over het leven van een hond. Met 25 herhalingsvragen. Vanaf ca. 8 jaar."
       ],
       "description": [
-        "271 pagina's",
-        "271 pagina's: illustraties ; 22 cm"
+        "29 p",
+        "29 p: ill ; 25 cm"
       ],
-      "note": "Vertaling van: Comment faire de la bonne bière chez soi",
+      "note": "Vert. van: Le chien. - Toulouse : Milan, cop. 2001. - (Mini patte)",
+      "series": [{
+        "text": "Pootje voor pootje"
+      }],
       "undup": {
-        "alsoAvailableAsCount": "0",
+        "alsoAvailableAsCount": "1",
         "items": [{
-          "key1": "bier brouwen doe je zelf",
-          "key2": "jean francois simard",
-          "cnt": "1",
-          "value": "3B8FCF7E00F360A0"
+          "key1": "honden vrolijke kameraden",
+          "key2": "valerie tracqui",
+          "cnt": "2",
+          "value": "10E5D385A7F360A0"
         }]
       },
       "siso": [
-        "678.71"
+        "J634.1"
       ]
     },
     {
-      "id": "|oba-catalogus|412157",
+      "id": "|oba-catalogus|279686",
       "frabl": {
-        "key1": "het bier in het volksleven",
-        "key2": "jack verstappen",
+        "key1": "honderd honden",
+        "key2": "gitte spee",
         "cnt": "1",
-        "value": "789CE3A3BF360A0"
+        "value": "25168D1A4EF360A0"
       },
-      "detailLink": "http://zoeken.oba.nl/detail/Jack-Verstappen/Het-bier-in-het-volksleven/Boek/?itemid=%7coba-catalogus%7c412157",
+      "detailLink": "http://zoeken.oba.nl/detail/Gitte-Spee/Honderd-honden/Boek/?itemid=%7coba-catalogus%7c279686",
       "titles": [
-        "Het bier in het volksleven",
-        "Het bier in het volksleven / Jack Verstappen"
+        "Honderd honden",
+        "Honderd honden / geschreven en getek. door Gitte Spee"
       ],
       "isbn": [
-        "9026480016"
+        "9027636761"
       ],
       "coverimages": [
-        "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=785745327&isbn=9789026480010&lid=&aut=&ti=&size=70",
-        "https://v111.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/785745327&token=c1322402"
+        "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=158536622&isbn=9789027636768&lid=&aut=&ti=&size=70",
+        "https://v111.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/158536622&token=c1322402"
       ],
       "formats": [{
         "text": "Boek",
-        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20200302.144703"
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20200304.234430"
       }],
       "authors": [
-        "Jack Verstappen"
+        "Gitte Spee"
       ],
       "authorsDetailed": [{
-        "full": "Jack Verstappen",
-        "firstname": "Jack",
-        "lastname": "Verstappen",
+        "full": "Gitte Spee",
+        "firstname": "Gitte",
+        "lastname": "Spee",
         "creatortype": "person"
       }],
-      "year": "1977",
+      "year": "1997",
       "publisher": [
-        "Orion, Brugge, [1977]"
+        "Zwijsen, Tilburg, cop. 1997"
       ],
       "subject-topical": [
-        "Bier"
-      ],
-      "languages": [
-        "Nederlands"
-      ],
-      "description": [
-        "238 p",
-        "238 p: ill ; 24 cm"
-      ],
-      "note": "Bibliogr.: p. 234-236",
-      "undup": {
-        "alsoAvailableAsCount": "0",
-        "items": [{
-          "key1": "het bier in het volksleven",
-          "key2": "jack verstappen",
-          "cnt": "1",
-          "value": "789CE3A3BF360A0"
-        }]
-      },
-      "siso": [
-        "906.4"
-      ]
-    },
-    {
-      "id": "|oba-catalogus|1111699",
-      "frabl": {
-        "key1": "zelf bier brouwen",
-        "key2": "brian kunath",
-        "cnt": "1",
-        "value": "3CBC687888F360A0"
-      },
-      "detailLink": "http://zoeken.oba.nl/detail/Brian-Kunath/Zelf-bier-brouwen/Boek/?itemid=%7coba-catalogus%7c1111699",
-      "titles": [
-        "Zelf bier brouwen",
-        "Zelf bier brouwen / Brian Kunath"
-      ],
-      "isbn": [
-        "=9789048305414"
-      ],
-      "coverimages": [
-        "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=375325328&isbn=9789048305414&lid=&aut=&ti=&size=70",
-        "https://v111.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/375325328&token=c1322402"
-      ],
-      "formats": [{
-        "text": "Boek",
-        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20200302.144703"
-      }],
-      "authors": [
-        "Brian Kunath",
-        "Claudia Dispa"
-      ],
-      "authorsDetailed": [{
-          "full": "Brian Kunath",
-          "firstname": "Brian",
-          "lastname": "Kunath",
-          "creatortype": "person"
-        },
-        {
-          "full": "Claudia Dispa",
-          "lastname": "Claudia Dispa",
-          "creatortype": "organization"
-        }
-      ],
-      "year": "2014",
-      "publisher": [
-        "Veltman Uitgevers, Utrecht, 2014"
-      ],
-      "subject-topical": [
-        "Bier",
-        "Bereiding"
-      ],
-      "languages": [
-        "Nederlands",
-        "Engels"
-      ],
-      "description": [
-        "224 pagina's",
-        "224 pagina's: illustraties ; 20 cm"
-      ],
-      "note": "Vertaling van: The brewer's bible. - London : Quintet Publishing Limited, 2011",
-      "undup": {
-        "alsoAvailableAsCount": "0",
-        "items": [{
-          "key1": "zelf bier brouwen",
-          "key2": "brian kunath",
-          "cnt": "1",
-          "value": "3CBC687888F360A0"
-        }]
-      },
-      "siso": [
-        "678.71"
-      ]
-    },
-    {
-      "id": "|oba-catalogus|1138220",
-      "frabl": {
-        "key1": "thuis bier brouwen",
-        "key2": "greg hughes",
-        "cnt": "1",
-        "value": "55075F94DAF360A0"
-      },
-      "detailLink": "http://zoeken.oba.nl/detail/Greg-Hughes/Thuis-bier-brouwen/Boek/?itemid=%7coba-catalogus%7c1138220",
-      "titles": [
-        "Thuis bier brouwen",
-        "Thuis bier brouwen / Greg Hughes"
-      ],
-      "isbn": [
-        "=9789048311408"
-      ],
-      "coverimages": [
-        "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=391756133&isbn=9789048311408&lid=&aut=&ti=&size=70",
-        "https://v111.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/391756133&token=c1322402"
-      ],
-      "formats": [{
-        "text": "Boek",
-        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20200302.144703"
-      }],
-      "authors": [
-        "Greg Hughes",
-        "Ghislaine de Thouars"
-      ],
-      "authorsDetailed": [{
-          "full": "Greg Hughes",
-          "firstname": "Greg",
-          "lastname": "Hughes",
-          "localized-type": "Auteur",
-          "creatortype": "person"
-        },
-        {
-          "full": "Ghislaine de Thouars",
-          "lastname": "Ghislaine de Thouars",
-          "localized-type": "Vertaler",
-          "creatortype": "organization"
-        }
-      ],
-      "year": "2015",
-      "publisher": [
-        "Veltman Uitgevers, Utrecht, [2015]"
-      ],
-      "subject-topical": [
-        "Bier",
-        "Bereiding"
-      ],
-      "languages": [
-        "Nederlands",
-        "Engels"
-      ],
-      "description": [
-        "224 pagina's",
-        "224 pagina's: illustraties ; 25 cm"
-      ],
-      "note": "Vertaling van: Home brew beer. - Dorling Kindersley Limited, (c)2013",
-      "undup": {
-        "alsoAvailableAsCount": "0",
-        "items": [{
-          "key1": "thuis bier brouwen",
-          "key2": "greg hughes",
-          "cnt": "1",
-          "value": "55075F94DAF360A0"
-        }]
-      },
-      "siso": [
-        "678.71"
-      ]
-    },
-    {
-      "id": "|oba-catalogus|1154690",
-      "frabl": {
-        "key1": "bier in nederland een biografie",
-        "key2": "marco daane",
-        "cnt": "1",
-        "value": "65A8C99E3CF360A0"
-      },
-      "detailLink": "http://zoeken.oba.nl/detail/Marco-Daane/Bier-in-Nederland-een-biografie/Boek/?itemid=%7coba-catalogus%7c1154690",
-      "titles": [
-        "Bier in Nederland : een biografie",
-        "Bier in Nederland : een biografie / Marco Daane"
-      ],
-      "isbn": [
-        "=9789045028682"
-      ],
-      "coverimages": [
-        "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=393939316&isbn=9789045028682&lid=&aut=&ti=&size=70",
-        "https://v111.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/393939316&token=c1322402"
-      ],
-      "formats": [{
-        "text": "Boek",
-        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20200302.144703"
-      }],
-      "authors": [
-        "Marco Daane"
-      ],
-      "authorsDetailed": [{
-        "full": "Marco Daane",
-        "firstname": "Marco",
-        "lastname": "Daane",
-        "localized-type": "Auteur",
-        "creatortype": "person"
-      }],
-      "year": "2016",
-      "publisher": [
-        "Uitgeverij Atlas Contact, Amsterdam, [2016]"
-      ],
-      "subject-topical": [
-        "Bier",
-        "Nederland",
-        "Geschiedenis"
-      ],
-      "languages": [
-        "Nederlands"
-      ],
-      "description": [
-        "446 pagina's",
-        "446 pagina's: illustraties ; 23 cm"
-      ],
-      "note": "Met literatuuropgave, register",
-      "undup": {
-        "alsoAvailableAsCount": "0",
-        "items": [{
-          "key1": "bier in nederland een biografie",
-          "key2": "marco daane",
-          "cnt": "1",
-          "value": "65A8C99E3CF360A0"
-        }]
-      },
-      "siso": [
-        "678.71"
-      ]
-    },
-    {
-      "id": "|oba-catalogus|1098174",
-      "frabl": {
-        "key1": "een wereld vol bier de feiten de fabels en de sprookjes alles wat je beslist moet weten om van bier te genieten",
-        "key2": "alain schepers",
-        "cnt": "1",
-        "value": "30262CE8AF360A0"
-      },
-      "detailLink": "http://zoeken.oba.nl/detail/Alain-Schepers/Een-wereld-vol-bier-de-feiten-de-fabels-en/Boek/?itemid=%7coba-catalogus%7c1098174",
-      "titles": [
-        "Een wereld vol bier : de feiten, de fabels en de sprookjes : alles wat je beslist moet weten om van bier te genieten.",
-        "Een wereld vol bier : de feiten, de fabels en de sprookjes : alles wat je beslist moet weten om van bier te genieten. / Alain Schepers"
-      ],
-      "isbn": [
-        "9789082108200"
-      ],
-      "coverimages": [
-        "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=364249005&isbn=9789082108200&lid=&aut=&ti=&size=70",
-        "https://v111.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/364249005&token=c1322402"
-      ],
-      "formats": [{
-        "text": "Boek",
-        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20200302.144703"
-      }],
-      "authors": [
-        "Alain Schepers",
-        "Wim Schepers"
-      ],
-      "authorsDetailed": [{
-          "full": "Alain Schepers",
-          "firstname": "Alain",
-          "lastname": "Schepers",
-          "creatortype": "person"
-        },
-        {
-          "full": "Wim Schepers",
-          "lastname": "Wim Schepers",
-          "creatortype": "organization"
-        }
-      ],
-      "year": "2013",
-      "publisher": [
-        "ASCR, [Ruurlo], cop. 2013"
-      ],
-      "subject-topical": [
-        "Bier",
-        "Verhalen"
-      ],
-      "languages": [
-        "Nederlands"
-      ],
-      "description": [
-        "224 p",
-        "224 p ; 21 cm"
-      ],
-      "undup": {
-        "alsoAvailableAsCount": "0",
-        "items": [{
-          "key1": "een wereld vol bier de feiten de fabels en de sprookjes alles wat je beslist moet weten om van bier te genieten",
-          "key2": "alain schepers",
-          "cnt": "1",
-          "value": "30262CE8AF360A0"
-        }]
-      },
-      "siso": [
-        "678.71"
-      ]
-    },
-    {
-      "id": "|oba-catalogus|1125621",
-      "frabl": {
-        "key1": "bier spijs 70 inspirerende gerechten bij nederlands speciaalbier",
-        "key2": "fiona de lange",
-        "cnt": "1",
-        "value": "5D5C8CAD8AF360A0"
-      },
-      "detailLink": "http://zoeken.oba.nl/detail/Fiona-de-Lange/Bier-spijs-70-inspirerende-gerechten-bij/Boek/?itemid=%7coba-catalogus%7c1125621",
-      "titles": [
-        "Bier & spijs : 70 inspirerende gerechten bij Nederlands speciaalbier",
-        "Bier & spijs : 70 inspirerende gerechten bij Nederlands speciaalbier / Fiona de Lange en Jo Vaessen"
-      ],
-      "isbn": [
-        "=9789087241513"
-      ],
-      "coverimages": [
-        "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=383075572&isbn=9789087241513&lid=&aut=&ti=&size=70",
-        "https://v111.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/383075572&token=c1322402"
-      ],
-      "formats": [{
-        "text": "Boek",
-        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20200302.144703"
-      }],
-      "authors": [
-        "Fiona de Lange",
-        "Jo Vaessen",
-        "Simone de Clercq",
-        "Jurriaan Huting"
-      ],
-      "authorsDetailed": [{
-          "full": "Fiona de Lange",
-          "firstname": "Fiona",
-          "lastname": "Lange",
-          "localized-type": "Auteur",
-          "creatortype": "person"
-        },
-        {
-          "full": "Jo Vaessen",
-          "lastname": "Jo Vaessen",
-          "localized-type": "Auteur",
-          "creatortype": "organization"
-        },
-        {
-          "full": "Simone de Clercq",
-          "lastname": "Simone de Clercq",
-          "localized-type": "Redacteur",
-          "creatortype": "organization"
-        },
-        {
-          "full": "Jurriaan Huting",
-          "lastname": "Jurriaan Huting",
-          "localized-type": "Illustrator",
-          "creatortype": "organization"
-        }
-      ],
-      "year": "2014",
-      "publisher": [
-        "Caplan, [Nijmegen], 2014"
-      ],
-      "subject-topical": [
-        "Kookboeken",
-        "Bier"
-      ],
-      "languages": [
-        "Nederlands"
-      ],
-      "description": [
-        "176 pagina's",
-        "176 pagina's: illustraties ; 25 cm"
-      ],
-      "note": "Met register",
-      "undup": {
-        "alsoAvailableAsCount": "0",
-        "items": [{
-          "key1": "bier spijs 70 inspirerende gerechten bij nederlands speciaalbier",
-          "key2": "fiona de lange",
-          "cnt": "1",
-          "value": "5D5C8CAD8AF360A0"
-        }]
-      },
-      "siso": [
-        "629.2"
-      ]
-    },
-    {
-      "id": "|oba-catalogus|1006686",
-      "frabl": {
-        "key1": "avonturen van leonardo 2",
-        "key2": "tom bier",
-        "cnt": "1",
-        "value": "5878B82FB6F360A0"
-      },
-      "detailLink": "http://zoeken.oba.nl/detail/Tom-Bier/Avonturen-van-Leonardo-2/Boek/?itemid=%7coba-catalogus%7c1006686",
-      "titles": [
-        "Avonturen van Leonardo 2",
-        "Avonturen van Leonardo 2 / Tom Bier"
-      ],
-      "isbn": [
-        "9789490352004"
-      ],
-      "coverimages": [
-        "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=334536146&isbn=9789490352004&lid=&aut=&ti=&size=70",
-        "https://v111.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/334536146&token=c1322402"
-      ],
-      "formats": [{
-        "text": "Boek",
-        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20200302.144703"
-      }],
-      "authors": [
-        "Tom Bier"
-      ],
-      "authorsDetailed": [{
-        "full": "Tom Bier",
-        "firstname": "Tom",
-        "lastname": "Bier",
-        "creatortype": "person"
-      }],
-      "year": "2011",
-      "publisher": [
-        "Schrijverij  Mooi Mens, [Elst], cop. 2011"
-      ],
-      "subject-topical": [
-        "Schoolleven"
-      ],
-      "genres": [
-        "School",
-        "Verhalenbundel"
+        "honden"
       ],
       "languages": [
         "Nederlands"
       ],
       "summaries": [
-        "De kinderen van klas Leonardo 2 (groep 5/6) van de Leonardoschool in Zevenaar beleven allerlei avonturen. Vanaf ca. 8 jaar."
+        "Van alles over de hond. A3."
       ],
       "description": [
-        "86 p",
-        "86 p ; 21 cm"
+        "26 p",
+        "26 p: tek ; 22 cm"
       ],
+      "series": [{
+        "text": "Ditjes en datjes voor beginnende lezers"
+      }],
       "undup": {
         "alsoAvailableAsCount": "0",
         "items": [{
-          "key1": "avonturen van leonardo 2",
-          "key2": "tom bier",
+          "key1": "honderd honden",
+          "key2": "gitte spee",
           "cnt": "1",
-          "value": "5878B82FB6F360A0"
+          "value": "25168D1A4EF360A0"
         }]
       }
-    },
-    {
-      "id": "|oba-catalogus|1145931",
-      "frabl": {
-        "key1": "bier kaas 50 speelse combinaties met vinken en van tricht",
-        "key2": "vinken",
-        "cnt": "1",
-        "value": "113E20B82BF360A0"
-      },
-      "detailLink": "http://zoeken.oba.nl/detail/Vinken/Bier-kaas-50-speelse-combinaties-met/Boek/?itemid=%7coba-catalogus%7c1145931",
-      "titles": [
-        "Bier & kaas : 50 speelse combinaties met Vinken en Van Tricht",
-        "Bier & kaas : 50 speelse combinaties met Vinken en Van Tricht / tekst inleiding: Katrien Bruyland"
-      ],
-      "isbn": [
-        "=9789401432122"
-      ],
-      "coverimages": [
-        "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=398505209&isbn=9789401432122&lid=&aut=&ti=&size=70",
-        "https://v111.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/398505209&token=c1322402"
-      ],
-      "formats": [{
-        "text": "Boek",
-        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20200302.144703"
-      }],
-      "authors": [
-        "Vinken",
-        "... Van Tricht",
-        "Katrien Bruyland",
-        "Joris Luyten"
-      ],
-      "authorsDetailed": [{
-          "full": "Vinken",
-          "lastname": "Vinken",
-          "localized-type": "Auteur",
-          "creatortype": "person"
-        },
-        {
-          "full": "... Van Tricht",
-          "lastname": "... Van Tricht",
-          "localized-type": "Auteur",
-          "creatortype": "organization"
-        },
-        {
-          "full": "Katrien Bruyland",
-          "lastname": "Katrien Bruyland",
-          "localized-type": "win",
-          "creatortype": "organization"
-        },
-        {
-          "full": "Joris Luyten",
-          "lastname": "Joris Luyten",
-          "localized-type": "Illustrator",
-          "creatortype": "organization"
-        }
-      ],
-      "year": "2015",
-      "publisher": [
-        "Lannoo, Tielt, [2015]"
-      ],
-      "subject-topical": [
-        "Bier",
-        "België",
-        "Kaas"
-      ],
-      "languages": [
-        "Nederlands"
-      ],
-      "description": [
-        "307 pagina's",
-        "307 pagina's: foto's ; 26 cm"
-      ],
-      "undup": {
-        "alsoAvailableAsCount": "0",
-        "items": [{
-          "key1": "bier kaas 50 speelse combinaties met vinken en van tricht",
-          "key2": "vinken",
-          "cnt": "1",
-          "value": "113E20B82BF360A0"
-        }]
-      },
-      "siso": [
-        "633.9"
-      ]
-    },
-    {
-      "id": "|oba-catalogus|1060363",
-      "frabl": {
-        "key1": "de vier seizoenen van het belgisch bier",
-        "key2": "sven gatz",
-        "cnt": "1",
-        "value": "4DFD3C372FF360A0"
-      },
-      "detailLink": "http://zoeken.oba.nl/detail/Sven-Gatz/De-vier-seizoenen-van-het-Belgisch-bier/Boek/?itemid=%7coba-catalogus%7c1060363",
-      "titles": [
-        "De vier seizoenen van het Belgisch bier",
-        "De vier seizoenen van het Belgisch bier / Sven Gatz"
-      ],
-      "isbn": [
-        "9789461310989"
-      ],
-      "coverimages": [
-        "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=345725689&isbn=9789461310989&lid=&aut=&ti=&size=70",
-        "https://v111.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/345725689&token=c1322402"
-      ],
-      "formats": [{
-        "text": "Boek",
-        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20200302.144703"
-      }],
-      "authors": [
-        "Sven Gatz",
-        "Joost Tack"
-      ],
-      "authorsDetailed": [{
-          "full": "Sven Gatz",
-          "firstname": "Sven",
-          "lastname": "Gatz",
-          "creatortype": "person"
-        },
-        {
-          "full": "Joost Tack",
-          "lastname": "Joost Tack",
-          "creatortype": "organization"
-        }
-      ],
-      "year": "2012",
-      "publisher": [
-        "Van Halewyck, Kessel-Lo, cop. 2012"
-      ],
-      "subject-topical": [
-        "Bier",
-        "België"
-      ],
-      "languages": [
-        "Nederlands"
-      ],
-      "description": [
-        "175 p",
-        "175 p: ill ; 25 cm"
-      ],
-      "note": "Uitg. in samenw. met Belgische Brouwers",
-      "undup": {
-        "alsoAvailableAsCount": "0",
-        "items": [{
-          "key1": "de vier seizoenen van het belgisch bier",
-          "key2": "sven gatz",
-          "cnt": "1",
-          "value": "4DFD3C372FF360A0"
-        }]
-      },
-      "siso": [
-        "678.71"
-      ]
-    },
-    {
-      "id": "|oba-catalogus|1155709",
-      "frabl": {
-        "key1": "ontdek de smaak van bier proef de waarheid",
-        "key2": "fiona de lange",
-        "cnt": "1",
-        "value": "599C5D9C90F360A0"
-      },
-      "detailLink": "http://zoeken.oba.nl/detail/Fiona-de-Lange/Ontdek-de-smaak-van-bier-proef-de-waarheid/Boek/?itemid=%7coba-catalogus%7c1155709",
-      "titles": [
-        "Ontdek de smaak van bier : proef de waarheid",
-        "Ontdek de smaak van bier : proef de waarheid / Fiona de Lange"
-      ],
-      "isbn": [
-        "=9789087241551"
-      ],
-      "coverimages": [
-        "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=398900019&isbn=9789087241551&lid=&aut=&ti=&size=70",
-        "https://v111.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/398900019&token=c1322402"
-      ],
-      "formats": [{
-        "text": "Boek",
-        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20200302.144703"
-      }],
-      "authors": [
-        "Fiona de Lange",
-        "Mandy van Lankveld",
-        "Jurriaan Huting"
-      ],
-      "authorsDetailed": [{
-          "full": "Fiona de Lange",
-          "firstname": "Fiona",
-          "lastname": "Lange",
-          "localized-type": "Auteur",
-          "creatortype": "person"
-        },
-        {
-          "full": "Mandy van Lankveld",
-          "lastname": "Mandy van Lankveld",
-          "localized-type": "Redacteur",
-          "creatortype": "organization"
-        },
-        {
-          "full": "Jurriaan Huting",
-          "lastname": "Jurriaan Huting",
-          "localized-type": "Fotograaf",
-          "creatortype": "organization"
-        }
-      ],
-      "year": "2015",
-      "publisher": [
-        "Caplan, [Nijmegen], 2015"
-      ],
-      "subject-topical": [
-        "Bier"
-      ],
-      "languages": [
-        "Nederlands"
-      ],
-      "description": [
-        "158 pagina's",
-        "158 pagina's: illustraties ; 24 cm"
-      ],
-      "undup": {
-        "alsoAvailableAsCount": "0",
-        "items": [{
-          "key1": "ontdek de smaak van bier proef de waarheid",
-          "key2": "fiona de lange",
-          "cnt": "1",
-          "value": "599C5D9C90F360A0"
-        }]
-      },
-      "siso": [
-        "678.71"
-      ]
-    },
-    {
-      "id": "|oba-catalogus|1164344",
-      "frabl": {
-        "key1": "vintage bier uniek receptenboek voor de thuisbrouwer",
-        "key2": "ron pattinson",
-        "cnt": "1",
-        "value": "34F9B7D98BF360A0"
-      },
-      "detailLink": "http://zoeken.oba.nl/detail/Ron-Pattinson/Vintage-bier-uniek-receptenboek-voor-de/Boek/?itemid=%7coba-catalogus%7c1164344",
-      "titles": [
-        "Vintage bier : uniek receptenboek voor de thuisbrouwer",
-        "Vintage bier : uniek receptenboek voor de thuisbrouwer / Ron Pattinson"
-      ],
-      "isbn": [
-        "=9789048313273"
-      ],
-      "coverimages": [
-        "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=405032412&isbn=9789048313273&lid=&aut=&ti=&size=70",
-        "https://v111.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/405032412&token=c1322402"
-      ],
-      "formats": [{
-        "text": "Boek",
-        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20200302.144703"
-      }],
-      "authors": [
-        "Ron Pattinson",
-        "Ghislaine de Thouars"
-      ],
-      "authorsDetailed": [{
-          "full": "Ron Pattinson",
-          "firstname": "Ron",
-          "lastname": "Pattinson",
-          "localized-type": "Auteur",
-          "creatortype": "person"
-        },
-        {
-          "full": "Ghislaine de Thouars",
-          "lastname": "Ghislaine de Thouars",
-          "localized-type": "Vertaler",
-          "creatortype": "organization"
-        }
-      ],
-      "year": "2016",
-      "publisher": [
-        "Veltman Uitgevers, Utrecht, [2016]"
-      ],
-      "subject-topical": [
-        "Bier",
-        "Bereiding"
-      ],
-      "languages": [
-        "Nederlands",
-        "Engels"
-      ],
-      "description": [
-        "160 pagina's",
-        "160 pagina's: illustraties ; 21 cm"
-      ],
-      "note": "Vertaling van: The home brewer's guide to vintage beer. - Quarry Books, (c)2014",
-      "undup": {
-        "alsoAvailableAsCount": "0",
-        "items": [{
-          "key1": "vintage bier uniek receptenboek voor de thuisbrouwer",
-          "key2": "ron pattinson",
-          "cnt": "1",
-          "value": "34F9B7D98BF360A0"
-        }]
-      },
-      "siso": [
-        "678.71"
-      ]
     }
   ]
-
 }

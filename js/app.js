@@ -1,5 +1,6 @@
 import {
-    getData
+    getData,
+    getAllData
 } from "./modules/api.js"
 import {
     Routie
@@ -8,25 +9,26 @@ import {
     getInputValueAndSearch
 } from "./modules/search.js"
 import {
-    changeBackground
+    changeBackground,
 } from "./modules/clickEvents.js"
-
 
 changeBackground();
 getInputValueAndSearch();
-
 
 const allSections = document.querySelectorAll('section');
 
 // Adding routes by selecting the buttons and the sections
 const myRouter = routie({
-    '': () => {
-        updateUI('main-page');
-        getData();
+    ' ': () => {
+        updateUI('start-page');
     },
-    ':isbn': (isbn) => {
+    'main': () => {
+        updateUI('main-page');
+        getAllData();
+    },
+    ':id': (id) => {
         updateUI('detail-page');
-        getData(isbn);
+        getData(id);
     }
 });
 

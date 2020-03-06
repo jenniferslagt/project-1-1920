@@ -24,7 +24,6 @@
 .card {
     width: 300px;
     height: 400px;
-    /* background-image: url('../images/background_card.png'); */
     background: radial-gradient(rgb(39, 39, 39), rgb(26, 26, 26));
     background-size: cover;
     border: 10px solid white;
@@ -215,11 +214,10 @@ body {
     font-family: sans-serif;
     transition-duration: 1s;
     overflow-x: hidden;
-    background: radial-gradient(rgb(0, 54, 0), rgb(0, 39, 0));
+    background: radial-gradient(rgb(0, 74, 0), rgb(0, 59, 0));
     background-size: cover;
     background-attachment: local;
     position: static;
-
 }
 
 .content {
@@ -228,6 +226,75 @@ body {
     animation-duration: 2s;
     animation-delay: 3s;
     animation-fill-mode: forwards;
+}
+
+span[score] {
+    position: fixed;
+    top: 100px;
+    z-index: 999;
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+    color: white;
+    background: radial-gradient(rgb(230, 0, 0), rgb(134, 0, 0));
+    border-radius: 0 15px 15px 0;
+    text-align: left;
+}
+
+/* start-section */
+section#start-section {
+    opacity: 0;
+}
+
+section#start-section.active {
+    opacity: 1;
+    transition-delay: 3s;
+    padding: 20px 0 0 0;
+    font-size: 20px;
+    background-image: url(../images/bg_start-section.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 0px;
+    text-align: center;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+label {
+    color: white;
+    margin-right: 20px;
+    padding-top: 15px;
+    font-size: 25px;
+    margin-bottom: 50px;
+}
+
+input#topic {
+    margin: 0 20px 40px 0;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 7px black;
+    border: none;
+    font-size: 20px;
+    max-width: 350px;
+    height: 50px;
+    font-size: 20px;
+}
+
+a#start {
+    all: unset;
+    color: darkgrey;
+    background: radial-gradient(rgb(39, 39, 39), rgb(26, 26, 26));
+    border-radius: 20px;
+    padding: 15px;
+    height: 20px;
+    margin-bottom: 35px;
+}
+
+a#start:hover {
+    color: red;
 }
 
 /* Loading body after the loading state */
@@ -243,33 +310,33 @@ body {
 
 
 body h1 {
-    left: 130px;
-    font-size: 60px;
+    position: absolute;
+    left: 20px;
+    top: -15px;
+    font-size: 50px;
     color: red;
     text-align: center;
 }
-
 
 section {
     opacity: 0;
 }
 
 /* Add style to main section and make it responsive */
-#main-section article,
-#filtered-section article {
+#main-section.active article,
+#filtered-section.active article {
+    opacity: 1;
     margin: 30px;
     display: flex;
     justify-content: center;
     border-radius: 15px;
     animation-name: slide-in;
-    animation-delay: 3s;
     animation-duration: 1s;
     animation-fill-mode: forwards;
 }
 
 @keyframes slide-in {
     0% {
-        /* transform: rotate(250deg); */
         transform: translate(-100%, 50%) rotate(250deg);
 
     }
@@ -282,8 +349,9 @@ section {
 }
 
 
-#main-section,
-#filtered-section {
+#main-section.active,
+#filtered-section.active {
+    opacity: 1;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -361,8 +429,6 @@ a.save-button {
     margin-left: 225px;
 }
 
-a.save-button:hover #main-section article {}
-
 /* Add style to detail section and make it responsive */
 section {
     opacity: 0;
@@ -370,7 +436,6 @@ section {
 }
 
 section.active {
-    opacity: 1;
     height: 100%;
     top: 230px;
     position: absolute;
@@ -380,7 +445,7 @@ form {
     text-align: center;
 }
 
-input {
+input#search-title {
     position: absolute;
     top: 28px;
     right: 130px;
@@ -391,7 +456,6 @@ input {
     border-radius: 20px;
     box-shadow: 2px 2px 7px black;
     border: none;
-    opacity: 0.9;
 }
 
 /* Add some style to the svg */

@@ -3,14 +3,14 @@ import {
 } from "../library/routes.js"
 
 
-const allSections = document.querySelectorAll('section');
+export const allSections = document.querySelectorAll('section');
 
 // Adding routes by selecting the buttons and the sections
-const myRouter = routie({
-    main: () => {
+export const myRouter = routie({
+    " ": () => {
         updateUI('main-page');
     },
-    ':isbn': () => {
+    ':id': () => {
         updateUI('detail-page');
     },
 });
@@ -18,7 +18,7 @@ const myRouter = routie({
 
 
 // Making a function which updates the page when a user clicks on a button
-function updateUI(route) {
+export function updateUI(route) {
     allSections.forEach(section => {
         section.classList.remove('active');
     });
