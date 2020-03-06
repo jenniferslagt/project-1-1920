@@ -1,5 +1,5 @@
 ## App: digitale leeromgeving die helpt bij het zoeken van bronnen.
-
+![Schermafbeelding 2020-03-06 om 11 44 17](https://user-images.githubusercontent.com/45489420/76076821-e387fb80-5f9f-11ea-96e6-29a20189f721.png)
 [Bekijk hier de website]( https://jenniferslagt.github.io/project-1-1920/)
 
 ## Description
@@ -25,6 +25,7 @@ If I had more time, I will:
 - add more events to make the application alive. 
 - improve my code and make it more clean. 
 - add more filters.
+- add a button which shows the user a section where the game is explained.
 
 ## Sources
 I used this sources during the process: <br>
