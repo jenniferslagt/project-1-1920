@@ -10,7 +10,7 @@ In this application I offer young pupils to search for the right sources (most o
 I also made the application as a kind of card game. So every card is a source, for example a book. You can increase your score by saving a book. In this way I am trying to make the UX stronger for the target audience. Besides,  every game has a goal. This goal of this 'game' is to collect sources. 
 
 ## The OBA API
-I used the oba API to get the right data for my application. First of all, I fetched the API
+I used the oba API to get the right data for my application. First of all, I fetched the API.
 
 Then I changed this data to json data which make it more readable for me. If the user is looking for specific data, the data can be manipulated by looking to the details or by  using filters. Then I render this data on the HTML elements.
 
